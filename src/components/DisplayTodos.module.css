@@ -1,0 +1,4 @@
+
+.checkedTodo label {
+    text-decoration: line-through;
+}
